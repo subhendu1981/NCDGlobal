@@ -1,5 +1,6 @@
 # NCDGlobal
-Python files related to the paper 'Relevance of non-cyanobacterial N2 fixation in the global ocean'.
+Python codes related to the paper 'Relevance of non-cyanobacterial N2 fixation in the global ocean'. The provided 
+code will help to generate the dynamics of N2 fixation by non-cyanobacterial diazotrophs (NCDs) inside a particle of radius 0.25 cm at the temperature 17°C (Supplementary Figure S2-S4). One can also find the cell specific N2 fixation rates (mug N/cell/d) and total amount of fixed N2 inside the particle (mug N/particle) by looking at the files 'N_fix_dat' and the output file 'J_N2_tot', respectively.    
 
 # How to run the model
 
